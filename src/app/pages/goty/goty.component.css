@@ -1,0 +1,8 @@
+.card-columns {
+  column-count: 4;
+}
+
+img {
+  /* width: auto; */
+  height: 300px;
+}
